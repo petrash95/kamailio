@@ -9,7 +9,7 @@ Testing Kamailio with Jitsi
 
 <img height="700" src="https://github.com/petrash95/kamailio/blob/master/Скриншот%202017-05-31%2011.55.53.png" />
 
-<img height="700" src="https://github.com/petrash95/kamailio/blob/master/Скриншот%202017-05-31%2011.56.28.png" />
+<img height="300" width="200" src="https://github.com/petrash95/kamailio/blob/master/Скриншот%202017-05-31%2011.56.28.png" />
 
 <img height="700" src="https://github.com/petrash95/kamailio/blob/master/Скриншот%202017-05-31%2011.57.51.png" />
 
